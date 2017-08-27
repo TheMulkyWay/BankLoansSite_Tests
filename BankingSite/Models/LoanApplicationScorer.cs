@@ -10,8 +10,7 @@
             _creditHistoryChecker = creditHistoryChecker;
         }
 
-
-
+        
         public void ScoreApplication(LoanApplication application)
         {
             var isBasicCriteriaMet = ValidateBasicCriteria(application);

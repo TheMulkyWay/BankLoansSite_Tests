@@ -71,3 +71,4 @@ F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End
 F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End to End\code\m1\after\BankingSite\BankingSite\bin\Newtonsoft.Json.xml
 F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End to End\code\m1\after\BankingSite\BankingSite\obj\Debug\BankingSite.dll
 F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End to End\code\m1\after\BankingSite\BankingSite\obj\Debug\BankingSite.pdb
+F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End to End\code\m1\after\BankingSite\BankingSite\obj\Debug\BankingSite.csprojResolveAssemblyReference.cache

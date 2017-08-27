@@ -141,6 +141,7 @@
     <Compile Include="Models\ILoanApplicationScorer.cs" />
     <Compile Include="Controllers\LoanApplicationController.cs" />
     <Compile Include="Models\InterestRates.cs" />
+    <Compile Include="Models\IXFactorChecker.cs" />
     <Compile Include="Models\LoanApplicationScorer.cs" />
     <Compile Include="Controllers\LoanApplicationSearchController.cs" />
     <Compile Include="Global.asax.cs">
@@ -149,6 +150,7 @@
     <Compile Include="Models\LoanApplication.cs" />
     <Compile Include="Models\IRepository.cs" />
     <Compile Include="Models\Repository.cs" />
+    <Compile Include="Models\XFactorChecker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Views\Home\Index.generated.cs">
       <AutoGen>True</AutoGen>
@@ -167,14 +169,25 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="READ_ME-JOHN.txt" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -216,15 +229,12 @@
       <LastGenOutput>ApplicationStatus.generated.cs</LastGenOutput>
     </Content>
     <Content Include="Views\LoanApplicationSearch\Index.cshtml" />
-    <Content Include="StoreyBoard.json" />
+    <Content Include="Resources\StoreyBoard.json" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
