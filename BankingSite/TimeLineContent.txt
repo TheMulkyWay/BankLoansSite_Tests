@@ -1,0 +1,4 @@
+﻿TimeStamp:
+"2nd Change":
+This change is detected locally but synch is not synching with remote,
+no push or pulls to remote are working so far
