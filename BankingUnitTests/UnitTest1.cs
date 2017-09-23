@@ -29,6 +29,7 @@ namespace BankingUnitTests
         {
             var sut = new CreditHistoryChecker();
 
+// red green refactor
 
             var isCreditWorthy = sut.CheckCreditHistory("Tom", "Smith");
 
