@@ -5,29 +5,37 @@
 }
 
 <div class="jumbotron">
-    <h1>BANKIA</h1>
+    <h1>Banco</h1>
+    <img src="~/images/banco-popular.png" />
     <p class="lead" id="mainMessage">@ViewBag.Message</p>
     <p>Current loan rate: <span id="loanRate">@Model.LoanRate</span> %</p>
-    <p><a href="@Url.Action("Apply", "LoanApplication")" class="btn btn-primary btn-lg">Apply Now ! &raquo;</a></p>
+    <p><a href="@Url.Action("Apply", "LoanApplication")" class="btn btn-primary btn-lg">Solicitar ahora ! &raquo;</a></p>
 </div>
 
 <div class="row">
     <div class="col-md-4">
         <h2>Technical Services Demo</h2>
-        <p>
+        <p> <strong> Testing bank overdraft application.</strong>
             ITest driven Storyboarding the Interface.
-            The components used in each feature.
+            The components used in each feature demo
+            Unit Testing MVC Prototype features.
+            and Selenium UI Testing
+        <br />
+            <br />
+        Github source uses local db, azure sql db otherwise.
         </p>
         <p><a class="btn btn-default" href="">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
         <h2>Continuous Improvement</h2>
         <p>Deliver your customers continuous improvements.</p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+        <p><a class="btn btn-default" href="http://webica.visualstudio.com/">Learn more &raquo;</a></p>
+        <p>Live development are, read-only access by invitation.</p>
+        <p>See Test examples in RealTime builds CI/CD pipeline customization</p>
     </div>
     <div class="col-md-4">
-        <h2>Where Angles dare</h2>
-        <p>Et volutpat aliquip consetetur magna ut consectetuer .</p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+        <h2>Angle in the Clouds</h2>
+        <p>Github hosted open source demo with feature commits pushed to related branchs on Azure</p>
+        <p><a class="btn btn-default" href="http://protal.azure.com">Learn more &raquo;</a></p>
     </div>
 </div>

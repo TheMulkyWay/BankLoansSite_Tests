@@ -28,3 +28,39 @@ F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End
 F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End to End\code\m1\after\BankingSite\BankingSiteUnitTests\obj\Debug\BankingSiteUnitTests.csprojResolveAssemblyReference.cache
 F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End to End\code\m1\after\BankingSite\BankingSiteUnitTests\obj\Debug\BankingSiteUnitTests.dll
 F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End to End\code\m1\after\BankingSite\BankingSiteUnitTests\obj\Debug\BankingSiteUnitTests.pdb
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\BankingSiteUnitTests.dll.config
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\BankingSiteUnitTests.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\BankingSiteUnitTests.pdb
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\BankingSite.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\Castle.Core.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\Moq.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\nunit.framework.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\WebActivatorEx.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.Optimization.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.Mvc.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.WebPages.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\EntityFramework.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\Ninject.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.Razor.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\BankingSite.pdb
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\BankingSite.dll.config
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\Moq.pdb
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\Moq.xml
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\nunit.framework.xml
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.Optimization.xml
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.Mvc.xml
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.WebPages.xml
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\EntityFramework.xml
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\Ninject.xml
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.Razor.xml
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\PROJECTS\Banking\BankingSiteUnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\PROJECTS\Banking\BankingSiteUnitTests\obj\Debug\BankingSiteUnitTests.csprojResolveAssemblyReference.cache
+C:\PROJECTS\Banking\BankingSiteUnitTests\obj\Debug\BankingSiteUnitTests.csproj.CoreCompileInputs.cache
+C:\PROJECTS\Banking\BankingSiteUnitTests\obj\Debug\BankingSiteUnitTests.dll
+C:\PROJECTS\Banking\BankingSiteUnitTests\obj\Debug\BankingSiteUnitTests.pdb

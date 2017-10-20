@@ -72,3 +72,41 @@ F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End
 F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End to End\code\m1\after\BankingSite\BankingSite\obj\Debug\BankingSite.dll
 F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End to End\code\m1\after\BankingSite\BankingSite\obj\Debug\BankingSite.pdb
 F:\LEARNING-PLURALSIGHT\Testing Automated Testing - MVC -ASP.NET MVC Testing End to End\code\m1\after\BankingSite\BankingSite\obj\Debug\BankingSite.csprojResolveAssemblyReference.cache
+C:\PROJECTS\Banking\BankingSite\bin\BankingSite.dll.config
+C:\PROJECTS\Banking\BankingSite\bin\BankingSite.dll
+C:\PROJECTS\Banking\BankingSite\bin\BankingSite.pdb
+C:\PROJECTS\Banking\BankingSite\bin\Antlr3.Runtime.dll
+C:\PROJECTS\Banking\BankingSite\bin\EntityFramework.dll
+C:\PROJECTS\Banking\BankingSite\bin\EntityFramework.SqlServer.dll
+C:\PROJECTS\Banking\BankingSite\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\Banking\BankingSite\bin\Newtonsoft.Json.dll
+C:\PROJECTS\Banking\BankingSite\bin\Ninject.dll
+C:\PROJECTS\Banking\BankingSite\bin\Ninject.Web.Common.dll
+C:\PROJECTS\Banking\BankingSite\bin\Ninject.Web.Mvc.dll
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.Helpers.dll
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.Mvc.dll
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.Optimization.dll
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.Razor.dll
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.WebPages.Deployment.dll
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.WebPages.dll
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.WebPages.Razor.dll
+C:\PROJECTS\Banking\BankingSite\bin\WebActivatorEx.dll
+C:\PROJECTS\Banking\BankingSite\bin\WebGrease.dll
+C:\PROJECTS\Banking\BankingSite\bin\EntityFramework.xml
+C:\PROJECTS\Banking\BankingSite\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\Banking\BankingSite\bin\Ninject.xml
+C:\PROJECTS\Banking\BankingSite\bin\Ninject.Web.Common.xml
+C:\PROJECTS\Banking\BankingSite\bin\Ninject.Web.Mvc.xml
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.Helpers.xml
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.Mvc.xml
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.Optimization.xml
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.Razor.xml
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.WebPages.xml
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.WebPages.Deployment.xml
+C:\PROJECTS\Banking\BankingSite\bin\System.Web.WebPages.Razor.xml
+C:\PROJECTS\Banking\BankingSite\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\Banking\BankingSite\bin\Newtonsoft.Json.xml
+C:\PROJECTS\Banking\BankingSite\obj\Debug\BankingSite.csprojResolveAssemblyReference.cache
+C:\PROJECTS\Banking\BankingSite\obj\Debug\BankingSite.csproj.CoreCompileInputs.cache
+C:\PROJECTS\Banking\BankingSite\obj\Debug\BankingSite.dll
+C:\PROJECTS\Banking\BankingSite\obj\Debug\BankingSite.pdb

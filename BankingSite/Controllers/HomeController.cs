@@ -7,7 +7,7 @@ namespace BankingSite.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Apply today for our award winning personal loans.";
+            ViewBag.Message = "Solicite hoy nuestros galardonados préstamos personales.";
 
             // Hard-coded rates for demo purposes
             var rates = new InterestRates
